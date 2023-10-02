@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           I like Doggos
         </p>
+
+         <img src="/dawg.png" alt="floof" />
       </main>
 
       <Footer />
