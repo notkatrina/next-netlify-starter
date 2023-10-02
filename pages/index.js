@@ -7,14 +7,14 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        
       </Head>
 
-      <main>
+         <main>
+        <Header title="Welcome to my Pet Page!" />
         <p className="description">
-      I love dogs. 
+          I like Doggos
         </p>
-         <img src="/dawg.png" alt="Netlify Logo" className={styles.logo} />
       </main>
 
       <Footer />
