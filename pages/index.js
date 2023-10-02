@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my Pet Page!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+      I love dogs. 
         </p>
+         <img src="/dawg.png" alt="Netlify Logo" className={styles.logo} />
       </main>
 
       <Footer />
