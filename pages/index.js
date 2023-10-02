@@ -11,11 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <h3 >Welcome to my Pet Page!" <h3/>
         <p className="description">
       I love dogs. 
         </p>
-         <img src="/dawg.png" alt="Netlify Logo"  />
+         <img src="/dawg.png" alt="Netlify Logo" className={styles.logo} />
       </main>
 
       <Footer />
