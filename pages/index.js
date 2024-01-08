@@ -13,7 +13,7 @@ export default function Home() {
          <main>
         <Header title="Welcome to my Pet Page!" />
         <p className="description">
-          I like Doggos 2
+          I like Doggos 4
         </p>
 
          <img src="/dawg.png" alt="floof" />
